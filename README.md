@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-     Curso Sistemas de Informação na Universidade Federal de Lavras e estou no terceiro periodo!
+     Curso Sistemas de Informação na Universidade Federal de Lavras e estou no sexto periodo!
       <img
            width="10%" 
            align="center" 
